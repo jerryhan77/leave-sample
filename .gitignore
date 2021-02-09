@@ -1,0 +1,10 @@
+\.idea/
+*~*
+*.bak
+target/
+.DS_Store
+.vscode/
+leave-service/.settings
+leave-service/.classpath
+leave-service/.project
+leave-service/.factorypath

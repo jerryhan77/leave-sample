@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/leave
-    username: leave
-    password: leave
+    url: jdbc:postgresql://10.0.22.36:30033/redmine
+    username: userG58
+    password: x3DUoW5ExXeuG32d
   jpa:
     hibernate:
       ddl-auto: update
